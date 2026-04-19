@@ -1,0 +1,5 @@
+# Ignore SimpleCov coverage reports
+coverage/
+
+# Ignore Mac system files
+.DS_Store
